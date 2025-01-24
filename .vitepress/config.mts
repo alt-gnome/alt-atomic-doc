@@ -12,7 +12,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/SkyWar-design/alt-atomic' }
+      { icon: 'github', link: 'https://github.com/alt-gnome/alt-atomic-doc' }
     ]
   }
 })
