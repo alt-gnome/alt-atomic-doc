@@ -1,1 +1,1 @@
-# alt-atomic-doc
+# atomic-doc
