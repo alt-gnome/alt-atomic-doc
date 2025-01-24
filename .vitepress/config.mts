@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Alt Atomic",
   description: "Test",
-  base: '/atomic-doc/',
+  base: '/alt-atomic-doc/',
 
   themeConfig: {
     nav: [
