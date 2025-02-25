@@ -29,6 +29,7 @@ features:
 Все описанное ниже и все разработки являются демонстрацией идеи, а не законченным продуктом.
 
 Контакт разработчика: [Telegram](https://t.me/dimcha_al)
+
 Группа Alt Atomic: [Telegram](https://t.me/alt_atomic)
 
 # Как это работает ?  {style="margin-top: 2rem;}
