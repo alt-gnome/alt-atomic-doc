@@ -103,7 +103,7 @@ var
 Данная [программа](https://github.com/alt-atomic/apm) будет являться помощником и пакетным менеджером системы. Подробнее на странице github
 
 # ISO образ  {style="margin-top: 2rem;}
-Образ установщика можно скачать по ссылке https://storage.yandexcloud.net/atomic-iso/regular-gnome-atomic-20250401-x86_64.iso
+Образ установщика можно скачать по ссылке https://storage.yandexcloud.net/atomic-iso/regular-gnome-atomic-20250820-x86_64.iso
 
 По всем вопросам - пишите в telegram группу, представленную выше.
 
